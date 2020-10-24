@@ -1,7 +1,7 @@
 ### Hi there, I'm Alan 👋
 
-- 🔭 I’m currently working on a Call of Duty companion app for Windows OS.
-- 🌱 I’m currently learning Docker, Angular & AWS.
+- 🔭 I’m currently working on a Social-Media type app using the MERNG stack.
+- 🌱 I’m currently learning Docker, React & GraphQL.
 - 👯 I’m looking to collaborate on relevant open source projects.
 - 🤔 I’m looking for help with Docker and AWS.
 - 💬 Ask me about MEAN, REST or LAMP.
