@@ -1,12 +1,11 @@
 ### Hi there, I'm Alan 👋
 
-- 🔭 I’m currently working on a Social-Media type app using the MERNG stack.
-- 🌱 I’m currently learning Docker, React & GraphQL.
+- 🔭 I’m currently working on MERN stack applications.
+- 🌱 I’m currently learning ReactJS and relevant backend technologies.
 - 👯 I’m looking to collaborate on relevant open source projects.
-- 🤔 I’m looking for help with Docker and AWS.
+- 🤔 I’m looking for tips on Docker and AWS.
 - 💬 Ask me about MEAN, REST or LAMP.
 - 📫 How to reach me: [Twitter](https://twitter.com/alanphilpott_) - YouTube Coming Soon!
-- ⚡ Fun fact: I'm 99.9% Irish.
 
 <p>
   <a href="https://twitter.com/alanphilpott_">
