@@ -7,6 +7,8 @@
 - 💬 Ask me about MEAN, REST or LAMP.
 - 📫 How to reach me: [Twitter](https://twitter.com/alanphilpott_) - YouTube Coming Soon!
 
+![](https://komarev.com/ghpvc/?username=alancphilpott&color=green)
+
 <p>
   <a href="https://twitter.com/alanphilpott_">
     <img src="https://img.shields.io/twitter/follow/BOLT2938?label=Twitter&logo=twitter&style=for-the-badge" />
